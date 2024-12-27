@@ -1,5 +1,5 @@
 # React
 
-collection of react projects greated to polish my skills
+collection of react projects created to polish my skills
 
 https://saudcountries.netlify.app/
